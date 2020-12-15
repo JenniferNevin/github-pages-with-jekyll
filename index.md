@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Hi this is the homepage
 
-I'm glad you are here. I plan to talk about ...
+Lets see if its working
+Hello
+Hello
